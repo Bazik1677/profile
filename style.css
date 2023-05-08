@@ -74,6 +74,10 @@ a:hover{
   padding-left: 0px;
 }
 
+.wrapped > li {
+  padding: 0 0px;
+}
+
 .container{
   width: 865px;
   margin: 0 auto;
